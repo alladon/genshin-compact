@@ -1387,7 +1387,7 @@ export default {
 
   .fastfade-enter-active,
   .fastfade-leave-active {
-    transition: opacity 0.1s;
+    transition: opacity 0.15s;
   }
   .fastfade-enter,
   .fastfade-leave-to {
