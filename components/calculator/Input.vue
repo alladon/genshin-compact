@@ -1072,7 +1072,8 @@ export default {
               (char === "0" && index === 0 && attr === "critRate") ||
               (char === "0" && index === 0 && attr === "critDMG") ||
               (char === "0" && index === 0 && attr === "abilityDMG") ||
-              (char === "0" && index === 0 && attr === "abilitySPD") ||
+              (char === "0" && index === 0 && attr === "charLVL") ||
+              (char === "0" && index === 0 && attr === "monsterLVL") ||
               (char === "0" && index === 0 && attr === "special")
             ) {
               return false;
